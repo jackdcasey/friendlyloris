@@ -1,0 +1,1 @@
+from friendlyloris import FriendlyLoris

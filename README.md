@@ -13,7 +13,7 @@
 
 ### The following options are available:
 
-- **Host** *The URL or IP address we want to connect to* *required
+- **Host (required)** *The URL or IP address we want to connect to*
 - **Port** *The port number we will use to connect*
 - **Https** *If we will start an encrypted connection*
 - **Connections** *The number of simultanious connections we will make*

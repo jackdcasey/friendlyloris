@@ -11,9 +11,9 @@
 
         loris.run()
 
-### The following options are available. The only required option is host:
+### The following options are available:
 
-- **Host** *The URL or IP address we want to connect to*
+- **Host** *The URL or IP address we want to connect to* *required
 - **Port** *The port number we will use to connect*
 - **Https** *If we will start an encrypted connection*
 - **Connections** *The number of simultanious connections we will make*

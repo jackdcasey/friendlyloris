@@ -11,6 +11,7 @@ setuptools.setup(
     description="A Slow Loris package for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    license="MIT",
     url="https://github.com/jackdcasey/friendlyloris",
     packages=setuptools.find_packages(),
     classifiers=[
